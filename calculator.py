@@ -29,6 +29,7 @@ def remove(calculation) -> None:
 # adds buttons and entry
 root = tkinter.Tk()
 root.title("Rechner")
+root.iconphoto(False, tkinter.PhotoImage(file="icon.png"))
 root.geometry("320x450")
 root.resizable(False, False)
 calculation = tkinter.StringVar()
