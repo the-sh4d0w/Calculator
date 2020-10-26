@@ -1,2 +1,2 @@
 # Calculator
-A simple calculator in python. Addition, subtraction, multiplication and division are possible.
+A simple gui calculator in Python. Addition, subtraction, multiplication and division are possible.
